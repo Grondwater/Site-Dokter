@@ -157,21 +157,26 @@ section.Portfolio1 {
     display: flex;
     justify-content: center;
     text-align: center;
-    border: solid green 1px;
+
 }
 .boxPortfolio {
     width: 250px;
     height: 300px;
     background: rgba(128,128,128,.5);
-    margin: 0 16px;
+    margin: 10px 16px;
     transition: 1s;
-    border: solid yellow 1px;
+    border-radius: 5%;
+
 }
 .boxPortfolio:hover {
     transform:scale(1.3);
     background: rgba(128,128,128,.5);
-    box-shadow: 2px 2px 2px rgba(128,128,128,.6);
+    /*box-shadow: 2px 2px 2px rgba(128,128,128,.6);*/
     z-index: 2;
+}
+.javaImg,.htmlImg,.toekomstigImg {
+    margin-top: 10px;
+    margin-bottom: 2px;
 }
 /* Einde portfolio hover boxes */
 
