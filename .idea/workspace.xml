@@ -4,6 +4,8 @@
     <list default="true" id="8a7b863b-2bb1-45c0-bdae-6caf90d14b8b" name="Default Changelist" comment="Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Douwe.css" beforeDir="false" afterPath="$PROJECT_DIR$/Douwe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overmij.html" beforeDir="false" afterPath="$PROJECT_DIR$/overmij.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +84,9 @@
       <workItem from="1613478699137" duration="1326000" />
       <workItem from="1613548918630" duration="5736000" />
       <workItem from="1613638140222" duration="8219000" />
+      <workItem from="1613668225709" duration="302000" />
+      <workItem from="1613686295011" duration="1409000" />
+      <workItem from="1613725888901" duration="6587000" />
     </task>
     <task id="LOCAL-00001" summary="First comit">
       <created>1612527754215</created>
